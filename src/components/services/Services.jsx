@@ -18,7 +18,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <HiOutlineClipboardList className="services__icon" />
-                    <h3 className="services__title">Web + App<br />Developer</h3>
+                    <h3 className="services__title">Full Stack <br />Web Developer</h3>
                 </div>
                 <span className="services__button" onClick={() => toggleTab(1)}>
                     View More
@@ -29,7 +29,7 @@ const Services = () => {
                         <HiX onClick={() => toggleTab(0)} className="services__modal-close" />
                         <h3 className="services__modal-title">Developer</h3>
                         <p className="services__modal-description">
-                            Over 3 years of experience in web development providing quality work.
+                            Over 4 years of experience in web development providing quality work.
                         </p>
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
@@ -58,7 +58,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <HiOutlineClipboardList className="services__icon" />
-                    <h3 className="services__title">UI/UX<br />Designer</h3>
+                    <h3 className="services__title">Maintenance &<br />Support</h3>
                 </div>
                 <span className="services__button" onClick={() => toggleTab(2)}>
                     View More
@@ -67,27 +67,27 @@ const Services = () => {
                 <div className={toggleState === 2 ? "services__modal active-modal" : "services__modal"}>
                     <div className="services__modal-content">
                         <HiX onClick={() => toggleTab(0)} className="services__modal-close" />
-                        <h3 className="services__modal-title">Designer</h3>
+                        <h3 className="services__modal-title">Engineer</h3>
                         <p className="services__modal-description">
-                            Over 2 years of experience in UI/UX design providing quality work.
+                        Provide ongoing support, updates, and maintenance for websites and applications, ensuring continuous functionality and security.
                         </p>
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <HiOutlineCheckCircle className="services__modal-icon" />
                                 <p className="services__modal-info">
-                                    Create a user friendly interface
+                                Bug Fixes & Issue Resolution
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <HiOutlineCheckCircle className="services__modal-icon" />
                                 <p className="services__modal-info">
-                                    Develop with a minimal approach
+                                Performance Optimization
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <HiOutlineCheckCircle className="services__modal-icon" />
                                 <p className="services__modal-info">
-                                    Design with accessibility in mind
+                                    Proactive Monitoring & Alerts
                                 </p>
                             </li>
                         </ul>
@@ -98,7 +98,7 @@ const Services = () => {
             <div className="services__content">
                 <div>
                     <HiOutlineClipboardList className="services__icon" />
-                    <h3 className="services__title">Digital<br />Branding</h3>
+                    <h3 className="services__title">Tutoring /<br />Mentoring</h3>
                 </div>
                 <span className="services__button" onClick={() => toggleTab(3)}>
                     View More
@@ -107,27 +107,27 @@ const Services = () => {
                 <div className={toggleState === 3 ? "services__modal active-modal" : "services__modal"}>
                     <div className="services__modal-content">
                         <HiX onClick={() => toggleTab(0)} className="services__modal-close" />
-                        <h3 className="services__modal-title">Branding</h3>
+                        <h3 className="services__modal-title">Tutor</h3>
                         <p className="services__modal-description">
-                            Over 3 years experience in branding providing quality work.
+                            Over 2 years experience with tutoring and over 20 students
                         </p>
                         <ul className="services__modal-services grid">
                             <li className="services__modal-service">
                                 <HiOutlineCheckCircle className="services__modal-icon" />
                                 <p className="services__modal-info">
-                                    Company logo and branding
+                                One-on-One Guidance
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <HiOutlineCheckCircle className="services__modal-icon" />
                                 <p className="services__modal-info">
-                                    Custom website and landing page
+                                Technical Skill Development
                                 </p>
                             </li>
                             <li className="services__modal-service">
                                 <HiOutlineCheckCircle className="services__modal-icon" />
                                 <p className="services__modal-info">
-                                    Design product mockups
+                                Career Development and Guidance
                                 </p>
                             </li>
                         </ul>

@@ -9,7 +9,7 @@ const Contact = () => {
     const sendEmail = (e) => {
         e.preventDefault();
     
-        emailjs.sendForm('service_s53x8mc', 'template_fwq8n7v', form.current, 'cXginQ40keRVEt1YV')
+        emailjs.sendForm('service_il6cbve', 'template_i7slcyo', form.current, '-w0h8hBz0tHzQWEx1')
         e.target.reset();
     };
   
@@ -27,9 +27,9 @@ const Contact = () => {
                         <HiOutlineMail className="contact__card-icon" />
                         
                         <h3 className="contact__card-title">Email</h3>
-                        <span className="contact__card-data">cyphrsylph@gmail.com</span>
+                        <span className="contact__card-data">oniisraeltemidayo@gmail.com</span>
                         
-                        <a href="mailto:cyphersylph@gmail.com" className="contact__button">
+                        <a href="mailto:oniisraeltemidayo@gmail.com" className="contact__button">
                             Write Me{" "} 
                             <HiOutlineArrowSmRight className="contact__button-icon" />
                         </a>

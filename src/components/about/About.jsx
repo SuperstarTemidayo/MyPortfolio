@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/aboutBW.jpeg";
-import CV from "../../assets/Example-Cv.pdf";
+import CV from "../../assets/temidayoscv.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -14,7 +14,7 @@ const About = () => {
             <div className="about__data">
                 <Info />
                 <p className="about__description">
-                    I create applications highlighting minimal design and friendly UI/UX interfaces.
+                I'm Oni Israel Temidayo, a passionate full stack developer with a knack for building dynamic and scalable web applications. With expertise in both front-end and back-end technologies, I enjoy tackling complex challenges and creating user-friendly solutions. When I'm not coding, you’ll probably find me gaming—whether it's strategizing in the latest RPG or relaxing with a casual platformer. I love the intersection of technology and creativity, which fuels my drive to continuously learn and improve in both my professional and personal pursuits.
                 </p>
                 <a download="" href={CV} className="button button--flex">
                     Download CV
