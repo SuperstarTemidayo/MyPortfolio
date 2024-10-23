@@ -1,0 +1,49 @@
+[33m819dc68[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Removed README file
+[33m8846e54[m Initial commit - added project files
+[33m742f123[m deployed via firebase hosting
+[33md4b292a[m updated features and layout
+[33ma3ffb2a[m updated readme to include screenshots
+[33m24fc96a[m updated user data with placeholders
+[33m486e962[m replaced checked icon for skills lists
+[33mb214c53[m adjusted svg colors to match hover elements
+[33m1a026e4[m corrected typos and adjusted color variables for hover
+[33m646d307[m created portfolio component
+[33m792dc19[m created scrollup component for page bottom
+[33mbdf372c[m added box-shadow for scroll-header
+[33m6937beb[m added scroll and active state to header
+[33m1785a5a[m added scrollup and portfolio components
+[33mf62dc09[m added footer component
+[33m6ec55b7[m created footer component
+[33m2fd8647[m installed emailjs for contact component
+[33m48cb60b[m added contact component
+[33maabe664[m created contact component and installed emailjs
+[33m4b7a765[m added placeholder images for testimonials
+[33mfad7c28[m installed swiper
+[33m73c19fa[m added testimonial component
+[33m4392eeb[m created testimonial component with Swiper slider
+[33m5cb087c[m added education and experience tabs
+[33mfdac0cc[m initiated qualification component with tab feature
+[33m15c8b66[m added qualification component
+[33me220b65[m updated modals to include active toggle and added breakpoints
+[33mbb2f714[m created services component and initiated modal build
+[33mb45daa1[m updated skill name
+[33m009be13[m added services component
+[33m1a34ab2[m corrected typo in CSS font varible
+[33m2f8c3fb[m added skills component
+[33m43fa6a8[m created frontend and backend for skills component
+[33m0c34047[m refactored svg
+[33m1f96c4a[m added about component
+[33mdbcc380[m refactored and corrected classname typo
+[33m992f711[m created about component
+[33m5d602fc[m added example CV to assets
+[33m703870a[m added place hold images and CV to assets
+[33mb527e52[m added home component and updated breakpoints
+[33me7247cc[m created home component
+[33m95636c6[m added assets for home component
+[33m496b5f9[m created header component
+[33me69f61f[m created css variables and implemented break points
+[33md44f845[m added header component
+[33me4c0c15[m edited title
+[33m950b3f0[m updated gitignore
+[33m485b347[m Delete .gitignore
+[33m3a1d513[m reinstalled xcode and intialized project setup
